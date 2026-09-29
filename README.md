@@ -137,9 +137,8 @@ It is **not affiliated with Netflix** and does not use Netflix's proprietary sou
 
 ## 👩‍💻 Author
 
-**Rupa Sri**
+**B.Rupa Sri**
 
-B.Tech CSE Student
 
 ---
 
